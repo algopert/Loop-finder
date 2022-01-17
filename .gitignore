@@ -1,0 +1,8 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+out.log
+LoopGen.layout
+Makefile.win
+optLoop.csv
+main.o
+LoopGen.exe

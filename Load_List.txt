@@ -1,0 +1,95 @@
+Load List											
+Available Loads											
+Name	Shipper Contacts	Available Loads	Person	Status	Pickup Date	Delivery Date	Origin	Destination	Origin state	Destination State	Trailer Type
+Item 2	Superior Feeds	1		Available	2021-12-03	2021-12-11	Fayetteville, NC, USA	Holgate, OH, USA	NC	OH	Hopper
+Item 3	Superior Feeds	1		Available	2021-12-03	2021-12-17	Fayetteville, NC, USA	Waterman, IL, USA	NC	IL	Hopper
+Item 1	JBS	1		Available	2021-12-03	2021-12-07	Worthington, MN, USA	Kansas City, KS, USA	MN	KS	Hopper
+X	JBS	1		Available	2021-12-03		Beardstown, IL, USA	Sharon, WI, USA	IL	WI	Hopper
+X	JBS	1		Available	2021-12-03		Cactus, TX, USA	Hereford, TX, USA	TX	TX	Hopper
+X	JBS	1		Available	2021-12-03		Beardstown, IL, USA	Cuthbert, GA, USA	IL	GA	Hopper
+46-0-0	Simplot	5		Available			Portland, OR, USA	Weiser, ID, USA	OR	ID	Hopper
+46-0-0	Simplot	1		Available			Portland, OR, USA	Burns, OR, USA	OR	OR	Hopper
+46-0-0	Simplot	28		Available			Portland, OR, USA	Idaho Falls, ID, USA	OR	ID	Hopper
+46-0-0	Simplot	3		Available			Portland, OR, USA	Richfield, UT, USA	OR	UT	Hopper
+46-0-0	Simplot	2		Available			Portland, OR, USA	Burley, ID, USA	OR	ID	Hopper
+11-52-0	Simplot	12		Available			Pocatello, ID, USA	Wolf Point, MT, USA	ID	MT	Hopper
+11-52-0	Simplot	25		Available			Pocatello, ID, USA	Noonan, ND, USA	ID	ND	Hopper
+11-52-0	Simplot	16		Available			Pocatello, ID, USA	Lynden, WA, USA	ID	WA	Hopper
+11-52-0	Simplot	8		Available			Pocatello, ID, USA	Nyssa, OR, USA	ID	OR	Hopper
+11-52-0	Simplot	2		Available			Pocatello, ID, USA	South Heart, ND, USA	ID	ND	Hopper
+11-52-0	Simplot	2		Available			Pocatello, ID, USA	Madras, OR, USA	ID	OR	Hopper
+16-20-0	Simplot	1		Available			Pocatello, ID, USA	Mount Vernon, WA, USA	ID	WA	Hopper
+21-0-0	Simplot	1		Available			Pocatello, ID, USA	Rock River, WY, USA	ID	WY	Hopper
+11-52-0	Simplot	3		Available			Pocatello, ID, USA	Fort Benton, MT, USA	ID	MT	Hopper
+11-52-0	Simplot	1		Available			Pocatello, ID, USA	Great Falls, MT, USA	ID	MT	Hopper
+11-52-0	Simplot	2		Available			Pocatello, ID, USA	Power, MT, USA	ID	MT	Hopper
+11-52-0	Simplot	1		Available			Pocatello, ID, USA	Reserve, MT, USA	ID	MT	Hopper
+16-20-0	Simplot	4		Available			Pocatello, ID, USA	Valier, MT, USA	ID	MT	Hopper
+16-20-0	Simplot	8		Available			Pocatello, ID, USA	Galata, MT, USA	ID	MT	Hopper
+11-25-20 ?	Simplot	1		Available			Pocatello, ID, USA	Sheridan, WY, USA	ID	WY	Hopper
+11-52-20 ?	Simplot	2		Available			Pocatello, ID, USA		OR	Unknown	Hopper
+11-52-10	Simplot	2		Available			Pocatello, ID, USA	Chester, MT, USA	OR	MT	Hopper
+40 Rock	Simplot	8		Available			Rock Springs, WY, USA	Dyer, NV, USA	WY	NV	Hopper
+11-52-0	Simplot	3		Available			Kennewick, WA, USA	Lynden, WA, USA	WA	WA	Hopper
+16-20-0	Simplot	1		Available			Aurora, OR, USA	Jefferson, OR, USA	OR	OR	Hopper
+Pet Food		1		Available			Crosby, TX, USA	Springfield, MO, USA	TX	MO	Hopper
+Pet Food		1		Available			Crosby, TX, USA	Lisbon, OH, USA	TX	OH	Hopper
+Pet Food		1		Available			Crosby, TX, USA	Mishawaka, IN, USA	TX	ID	Hopper
+Pet Food		1		Available			Crosby, TX, USA	Waverly, NY, USA	TX	NY	Hopper
+Pet Food		1		Available			Crosby, TX, USA	Ogden, UT, USA	TX	UT	Hopper
+Pet Food		1		Available			Port Arthur, TX, USA	Bern, KS, USA	TX	KS	Hopper
+Pet Food		1		Available			Port Arthur, TX, USA	Mishawaka, IN, USA	TX	IN	Hopper
+Pet Food		1		Available			Kansas City, KS, USA	Mishawaka, IN, USA	KS	IN	Hopper
+Pet Food		1		Available			Hanceville, AL, USA	Fairview, KS, USA	AL	KS	Hopper
+Pet Food		1		Available			Hanceville, AL, USA	Springfield, MO, USA	AL	PA	Hopper
+Pet Food		1		Available			Texarkana, AR, USA	Purdy, MO, USA	AR	MO	Hopper
+Pet Food		1		Available			Fayetteville, NC, USA	Purdy, MO, USA	NC	MO	Hopper
+Pet Food		1		Available			Forest, MS, USA	Purdy, MO, USA	MS	MO	Hopper
+Pet Food		1		Available			Moss Point, MS, USA	Waverly, NY, USA	MS	NY	Hopper
+Pet Food		1		Available			Moss Point, MS, USA	Mishawaka, IN, USA	MS	IN	Hopper
+Pet Food		1		Available			Estherville, IA, USA	Lincoln, IL, USA	IA	IL	Hopper
+Pet Food		1		Available			Estherville, IA, USA	Galva, IL, USA	IA	IL	Hopper
+Pet Food		1		Available			Millersburg, OH, USA	Springfield, MO, USA	OH	MO	Hopper
+Pet Food		1		Available			Millersburg, OH, USA	Waterman, IL, USA	OH	IL	Hopper
+Pet Food		1		Available			Cincinnati, OH, USA	Mishawaka, IN, USA	OH	IN	Hopper
+Pet Food		1		Available			Memphis, TN, USA	Mishawaka, IN, USA	TN	IN	Hopper
+Pet Food		1		Available			Southwest City, MO, USA	Mount Pleasant, TX, USA	MO	TX	Hopper
+Pet Food		1		Available			Lincoln, IL, USA	Ogden, UT, USA	IL	UT	Hopper
+Organic Corn		80		Available			Cozad, NE, USA	Buffalo, MO, USA	NE	MO	Hopper
+Organic Corn		1		Available			Pierce, Nebraska, NE, USA	Buffalo, MO, USA	NE	MO	Hopper
+Organic Corn		1		Available			Comstock, NE, USA	Buffalo, MO, USA	NE	MO	Hopper
+Organic Corn		1		Available			Cozad, NE, USA	Watts, OK, USA	NE	MO	Hopper
+Organic Soybeans		1		Available			Hooper, NE, USA	Salem, OH, USA	NE	OH	Hopper
+Organic Corn		1		Available			Larchwood, IA, USA	Buffalo, MO, USA	IA	MO	Hopper
+Organic Corn		1		Available			Whittemore, IA, USA	Buffalo, MO, USA	IA	MO	Hopper
+Organic Soybeans		1		Available			Washington, IA, USA	Salem, OH, USA	IA	OH	Hopper
+Organic Corn		1		Available			Carlisle, AR, USA	Buffalo, MO, USA	AR	MO	Hopper
+Organic Corn		1		Available			Taopi, MN, USA	Buffalo, MO, USA	MN	MO	Hopper
+Organic Corn		1		Available			Morrice, MI, USA	Nappanee, IN, USA	MN	IN	Hopper
+unknown		1		Available			New Castle, DE, USA	Staley, NC, USA	DE	NC	Hopper
+unknown		1		Available			Morehead, NC, USA	Staley, NC, USA	NC	NC	
+unknown		1		Available			Progress, TX, USA	Dalhart TX	TX	TX	Belt or Walking floor
+unknown		1		Available			Progress, TX, USA	Muleshoe, TX, USA	TX	TX	Belt or Walking floor
+Pet Food		15		Available			Kansas City, KS, USA	Ogden, UT, USA	KS	UT	Hopper
+Pet Food		6		Available			Kansas City, KS, USA	Mishawaka, IN, USA	KS	IN	Hopper
+Pet Food		1		Available			Kansas City, KS, USA	Hazleton, PA, USA	KS	PA	Hopper
+Pet Food		1		Available			Kansas City, KS, USA	Saint Marys, OH, USA	KS	OH	Hopper
+Pet Food		1		Available			Kansas City, KS, USA	Lathrop, CA, USA	KS	CA	Hopper
+Pet Food		10		Available			Purdy, MO, USA	Lathrop, CA, USA	MO	CA	Hopper
+Pet Food		1		Available			Purdy, MO, USA	Memphis, TN, USA	MO	TN	Hopper
+Pet Food		1		Available			Purdy, MO, USA	Waverly, NY, USA	MO	NY	Hopper
+Pet Food		5		Available			Huron, SD, USA	Kansas City, KS, USA	SD	KS	Hopper
+Pet Food		5		Available			Houston, TX, USA	Kansas City, KS, USA	TX	KS	Hopper
+Blood Meal		1		Available			Fayetteville, NC, USA	Holgate, OH, USA	NC	OH	Hopper
+Blood Meal		1		Available			Fayetteville, NC, USA	Waterman, IL, USA	NC	IL	Hopper
+unknown		1		Available			Louisville, KY, USA	Cassatt, SC, USA	KY	SC	Hopper
+unknown		1		Available			Louisville, KY, USA	Memphis, TN, USA	KY	TN	Hopper
+unknown		1		Available			Louisville, KY, USA	Cuthbert, GA, USA	KY	GA	Hopper
+unknown		1		Available			Louisville, KY, USA	Aliceville, AL, USA	KY	AL	Hopper
+unknown		1		Available			Vance, SC, USA	Mishawaka, IN, USA	SC	IN	Hopper
+unknown		1		Available			Beardstown, IL, USA	Cuthbert, GA, USA	IL	GA	Hopper
+unknown		1		Available			Beardstown, IL, USA	Mattoon, IL, USA	IL	IL	Hopper
+unknown		1		Available			Beardstown, IL, USA	Sharon, WI, USA	IL	WI	Hopper
+unknown		1		Available			Cactus, TX, USA	Hereford, TX, USA	TX	TX	Hopper
+unknown		1		Available			Worthington, MN, USA	Kansas City, KS, USA	MN	KS	Hopper
+		323			2021-12-03	2021-12-07 to 2021-12-17					
